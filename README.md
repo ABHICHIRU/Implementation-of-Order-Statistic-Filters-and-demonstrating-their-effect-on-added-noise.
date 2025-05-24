@@ -4,7 +4,6 @@
 This project demonstrates various **spatial filtering techniques** in MATLAB to remove **Salt & Pepper noise** from grayscale images. It showcases the implementation and comparison of Median, Min, Max, Midpoint, and Alpha-Trimmed Mean filters.
 
 ## 🔧 Features
-- GUI for image selection
 - Salt & Pepper noise addition
 - Noise reduction using five filtering techniques
 - Visual comparison using subplot displays
